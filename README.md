@@ -9,4 +9,4 @@ I've built production-grade anomaly detection and real-time analytics for api se
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabriel-santini-francisco/)
 
 ### Tech
-`Python` · `Pandas` · `NumPy` · `scikit-learn` · `TensorFlow` · `SQL/Oracle` · `NoSQL` · `Bash` · `Perl` · `Git` · `Docker` · `AWS` · `Linux`
+`Python` · `Pandas` · `NumPy` · `scikit-learn` · `TensorFlow` · `Flask` · `SQL/Oracle` · `NoSQL` · `Bash` · `Perl` · `Git` · `Docker` · `AWS` · `Linux`
