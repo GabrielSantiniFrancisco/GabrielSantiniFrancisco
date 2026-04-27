@@ -74,9 +74,9 @@ me = Gabriel()
 
 ## 🏅 [LICENSES_AND_CERTIFICATIONS-MAIN]
 
-- **AWS Certified Solutions Architect – Associate** https://www.credly.com/badges/dd1ffbae-96b4-4e37-aebf-d8338813c8df/linked_in_profile
-- **IBM Data Science Professional Certificate** https://www.credly.com/badges/ab869f6a-9289-4816-a8dc-241d88b19f45/linked_in_profile
-- **IBM Advanced Deep Learning Specialist** https://www.credly.com/badges/f9e04e6a-594f-4a5b-a7f6-baf7e06480e2/linked_in_badge
+- **AWS Certified Solutions Architect – Associate** [Badge Link](https://www.credly.com/badges/dd1ffbae-96b4-4e37-aebf-d8338813c8df/linked_in_profile)
+- **IBM Data Science Professional Certificate** [Badge Link](https://www.credly.com/badges/ab869f6a-9289-4816-a8dc-241d88b19f45/linked_in_profile)
+- **IBM Advanced Deep Learning Specialist** [Badge Link](https://www.credly.com/badges/f9e04e6a-594f-4a5b-a7f6-baf7e06480e2/linked_in_badge)
 
 ---
 
