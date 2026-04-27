@@ -9,7 +9,7 @@
 ## 🏛️ [ACADEMIC_FORMULATION]
 - **Research:** M.Sc. Student of **Computational and Applied Mathematics** at **IMECC-UNICAMP**. 
 - **Thesis Domain:** Stochastic optimization and Neural Networks applied to **Inverse Problems**. I specialize in reconstructing high-dimensional reality from ill-posed, fragmented observations.
-- **Statistical Positioning:** Reliably located at **μ + 4σ**. I operate on the extreme tail of the normal distribution—where noise becomes signal and complexity becomes a competitive advantage.
+- **Statistical Positioning:** Reliably located at **μ + 3σ**. I operate on the extreme tail of the normal distribution—where noise becomes signal and complexity becomes a competitive advantage.
 - **Global Identity:** Brazilian born 🇧🇷 | EU Citizen 🇪🇺 | UK ILR Trajectory 🇬🇧
 - **Strategic Heuristics:** *"Nobody ever won a chess game by resigning."*
 
